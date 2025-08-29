@@ -14,7 +14,7 @@
 ### **👑 Tier 1: The Vanguard Projects (AI for Core Strategy)**
 ***These are the flagship projects, leveraging state-of-the-art AI to automate or revolutionize high-level business strategy.***
 
-1. - [Specialized Business Intelligence Assistant via LLM Fine-Tuning](Projects/Specialized Business Intelligence Assistant via LLM Fine-Tuning.ipynb)
+1. [Specialized Business Intelligence Assistant via LLM Fine-Tuning](./Projects/Specialized Business Intelligence Assistant via LLM Fine-Tuning.ipynb)
     * **Keywords:** 💡 `LLM`, `Fine-Tuning`, `Gemma`, `Business Intelligence`, `Conversational AI`, `ROUGE Score Improvement`
 
 2. Project Synapse: LLM-Powered Strategic SWOT Analysis
